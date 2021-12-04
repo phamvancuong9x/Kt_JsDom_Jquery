@@ -56,6 +56,7 @@ img {
   transform: translateY(-50%);
   transition: 0.3s ease;
   z-index: 10;
+  cursor: pointer;
 }
 .arrow_right {
   padding: 10px;
@@ -67,6 +68,7 @@ img {
   transform: translateY(-50%);
   transition: 0.3s ease;
   z-index: 10;
+  cursor: pointer;
 }
 .arrow_left:hover,
 .arrow_right:hover {
